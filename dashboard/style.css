@@ -1,0 +1,9 @@
+/* style.css */
+body {
+    background-color: white !important;
+    color: black !important;
+}
+
+[data-testid="stSidebar"] {
+    background-color: grey !important;
+}
